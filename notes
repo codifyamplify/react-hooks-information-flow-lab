@@ -1,0 +1,12 @@
+component heirarchy:
+
+app
+>>header
+>>shopping list
+>>>>filter
+>>>>item
+>>>>item>>>>item
+
+
+props plan:
+
